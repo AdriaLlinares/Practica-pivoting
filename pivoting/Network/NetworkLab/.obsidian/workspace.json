@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "da2555cdfde3de93",
+    "type": "split",
+    "children": [
+      {
+        "id": "044390a738de670c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7a1a6674ba54f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "5c9ce57d64baf5a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "172.18.0.102 (Matrix 1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "172.18.0.102 (Matrix 1)"
+            }
+          },
+          {
+            "id": "fd7d952a765937e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "15fee3dc2a84aa24",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61f62c7420c480ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c033739eee87e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341f4aedda62055b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a8e025322f2e0d11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9e056dfae4dd92df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7311fa69a634f92a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8cd816e34574eaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a5d012595567d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "db30221a2ca8a344",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "e443ea2acddc0c3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b68121ee1446e215",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "e89fd5d49de7c484",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "15fee3dc2a84aa24",
+  "lastOpenFiles": [
+    "10.15.12.102 (Brainpan).md",
+    "10.15.12.101 (Matrix 1).md",
+    "172.18.0.102 (Matrix 1).md",
+    "192.168.1.76 (Atacante).md",
+    "192.168.1.101 (Aragog).md",
+    "192.168.100.103 (Fawkes).md",
+    "192.168.100.104 (Dumbledore-PC).md",
+    "192.168.100.106 (Nagini).md",
+    "172.18.0.101 (Dumbledore-PC).md",
+    "10.10.0.105 (Nagini).md",
+    "10.10.0.101 (Aragog).md",
+    "10.10.0.104 (Nagini).md",
+    "Bienvenido.md"
+  ]
+}

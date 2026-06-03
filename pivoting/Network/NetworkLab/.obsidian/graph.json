@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "PWND",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Hacker",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6666666666666666,
+  "close": false
+}
